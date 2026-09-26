@@ -1,0 +1,26 @@
+[
+   {
+      "id" : "weather",
+      "name" : "Weather",
+      "description" : "Weather"
+   },
+   {
+      "id" : "shoutcast",
+      "name" : "Shoutcast",
+      "description" : "Shoutcast radio"
+   },
+   {
+      "id" : "wyoutube",
+      "name" : "Youtube",
+      "description" : "Web Youtube video"
+   },
+   {
+      "id" : "youtube",
+      "name" : "Youtube",
+      "description" : "API Youtube video"
+   },
+   {
+      "id" : "youtubekids",
+      "name" : "Youtube Kids",
+      "description" : "Youtube video for kids"
+]
